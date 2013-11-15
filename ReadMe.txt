@@ -1,4 +1,4 @@
-﻿boar-gui - Interface for Boar version control and backup
+boar-gui - Interface for Boar version control and backup
 
 NOTES:
     * Boar - http://code.google.com/p/boar/
